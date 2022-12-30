@@ -23,7 +23,7 @@ If any issues arise for any of the below mentioned areas, please draft a strongl
 | Selenium Jar | 4.7.0 |
 | Chrome Driver | 108.0.5359.71 |
 
-1. Java 17 - https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+1. Java 17 - https://www.oracle.com/java/technologies/javase-jdk17-downloads.html
 
 2. Eclipse IDE - https://www.eclipse.org/downloads/
 
